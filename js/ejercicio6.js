@@ -9,7 +9,7 @@
 var numero = parseInt(prompt("ingresar numero", 0));
 
 while(isNaN(numero)){
-    numero = parseInt(prompt("ingresar nuevo numero", 0));
+    numero = parseInt(prompt("Ingresar nuevo numero", 0));
 }
 
 if(numero % 2 == 0){
