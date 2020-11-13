@@ -6,7 +6,7 @@
 -Si no es un numero volver a pedir que se ingrese un numero
 */
 
-var numero = parseInt(prompt("ingresar numero", 0));
+var numero = parseInt(prompt("Ingresar numero", 0));
 
 while(isNaN(numero)){
     numero = parseInt(prompt("Ingresar nuevo numero", 0));
