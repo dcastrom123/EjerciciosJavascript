@@ -11,7 +11,7 @@ for(var i = 1; i <= 15; i++){
 */
 //Todas las tablas de multiplicar
 
-var numero = parseInt(prompt("Mostrar tablas de el 1 hasta el: ", 1));
+var numero = parseInt(prompt("Mostrar tablas del 1 hasta el: ", 1));
 
 
 for(var c = 1; c <=numero; c++){
